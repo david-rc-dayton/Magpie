@@ -7,7 +7,9 @@ This script requires an installed *Python2* runtime to execute.
 
 ## Setup
 
-1) Download the [`magpie.py`](#MAGPIE) script
+1) Download the
+[`magpie.py`](https://raw.githubusercontent.com/david-rc-dayton/Magpie/master/magpie.py)
+script
 
 2) Run `mv magpie.py magpie` to get rid of the extension
 
